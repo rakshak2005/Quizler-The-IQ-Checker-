@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "chmod +x ./vercel-build.sh && ./vercel-build.sh"
+  }
+}
+
